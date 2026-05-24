@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://via.placeholder.com/150x150.png?text=GRA" alt="Logo" width="100" height="100">
+  <img src="./logo.png" alt="GitHub Repo Analyzer Logo" width="150" height="150" style="border-radius: 20px; box-shadow: 0 0 20px rgba(47, 129, 247, 0.5);">
 
   # GitHub Repo Analyzer 🚀
 
